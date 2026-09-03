@@ -23,5 +23,5 @@ Unreal Engine • Godot
 **Creative:**  
 3D Art • Pixel Art
 
-**Interests:**  
-Game Development • Programming • AI • Automation
+**Tools:**  
+Visual Studio • Visual Studio Code • Git • Git LFS • Blender • Aseprite • Krita
